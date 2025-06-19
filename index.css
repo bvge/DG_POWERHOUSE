@@ -557,3 +557,16 @@ footer > .back_to_home > ul > li > a:hover {
   color: white;
   transition: all 0.3s;
 }
+
+
+@media (max-width:68.75rem) {
+    html{
+        font-size: 50%;
+    }
+}
+
+@media (max-width:55.5rem) {
+    html{
+        font-size: 37,5%;
+    }
+}
