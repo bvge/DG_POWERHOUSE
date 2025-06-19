@@ -767,7 +767,7 @@ footer > .back_to_home > ul > li > a:hover {
     background-size: contain;
   }
   .body > section > article > p:nth-child(1) {
-    font-size: 5rem;
+    font-size: 5.5rem;
     color: black;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
@@ -785,12 +785,12 @@ footer > .back_to_home > ul > li > a:hover {
   }
 
   .body > section > article > p:nth-child(2) {
-    font-size: 2rem;
+    font-size: 2.5rem;
     color: black;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
     text-align: center;
-    width: 80%;
+    width: 90%;
     margin-bottom: 2rem;
   }
   .body > section > .mission {
@@ -805,10 +805,10 @@ footer > .back_to_home > ul > li > a:hover {
     margin-bottom: 2rem;
   }
   .body > section > .mission > img {
-    width: 15px;
+    width: 25px;
   }
   .body > section > .mission > p {
-    font-size: 2rem;
+    font-size: 3rem;
     color: white;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
@@ -833,7 +833,7 @@ footer > .back_to_home > ul > li > a:hover {
       border-radius: 5px;
     }
     p {
-      font-size: 1.5rem;
+      font-size: 2.5rem;
       font-family: Montserrat, sans-serif;
       font-weight: 700;
       text-align: center;
@@ -863,6 +863,7 @@ footer > .back_to_home > ul > li > a:hover {
   }
   .body2 > .sec1 > article > p:nth-child(2) {
     font-size: 2.5rem;
+    line-height: 4rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -890,13 +891,14 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec2 > article > p:nth-child(1) {
-    font-size: 3.5rem;
+    font-size: 5.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
   }
   .body2 > .sec2 > article > p:nth-child(2) {
     font-size: 2.5rem;
+    line-height: 4rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -924,13 +926,14 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec3 > article > p:nth-child(1) {
-    font-size: 3.5rem;
+    font-size: 5.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
   }
   .body2 > .sec3 > article > p:nth-child(2) {
     font-size: 2.5rem;
+    line-height: 4rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -957,13 +960,14 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec4 > article > p:nth-child(1) {
-    font-size: 3.5rem;
+    font-size: 5.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
   }
   .body2 > .sec4 > article > p:nth-child(2) {
     font-size: 2.5rem;
+    line-height: 4rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -1114,7 +1118,7 @@ footer > .back_to_home > ul > li > a:hover {
 
   /* footer */
   footer {
-    height: 30vh;
+    height: 40vh;
     background-color: #327e9b;
     display: flex;
     flex-direction: column;
@@ -1126,9 +1130,9 @@ footer > .back_to_home > ul > li > a:hover {
     width: 40px;
   }
   footer p {
-    font-size: 1.8rem;
+    font-size: 2.5rem;
     font-family: Montserrat, sans-serif;
-    line-height: 2rem;
+    line-height: 3rem;
     font-weight: 600;
     text-align: center;
     width: 90%;
