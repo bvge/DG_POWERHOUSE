@@ -856,16 +856,16 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec1 > article > p:nth-child(1) {
-    font-size: 2.9rem;
+    font-size: 5.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.2px;
   }
   .body2 > .sec1 > article > p:nth-child(2) {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
-    letter-spacing: -1px;
+    letter-spacing: -0.3px;
     margin-bottom: 4rem;
   }
   .body2 > .sec1 > aside {
@@ -890,13 +890,13 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec2 > article > p:nth-child(1) {
-    font-size: 2.9rem;
+    font-size: 3.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
   }
   .body2 > .sec2 > article > p:nth-child(2) {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -924,13 +924,13 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec3 > article > p:nth-child(1) {
-    font-size: 2.9rem;
+    font-size: 3.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
   }
   .body2 > .sec3 > article > p:nth-child(2) {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -957,13 +957,13 @@ footer > .back_to_home > ul > li > a:hover {
     width: 90%;
   }
   .body2 > .sec4 > article > p:nth-child(1) {
-    font-size: 2.9rem;
+    font-size: 3.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -1px;
   }
   .body2 > .sec4 > article > p:nth-child(2) {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 700;
     letter-spacing: -0.3px;
@@ -995,10 +995,10 @@ footer > .back_to_home > ul > li > a:hover {
   }
 
   .body3 > article > p:nth-child(1) {
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     font-family: Montserrat, sans-serif;
     font-weight: 800;
-    letter-spacing: -1px;
+    letter-spacing: -0.2px;
     text-align: center;
     color: white;
   }
@@ -1006,12 +1006,12 @@ footer > .back_to_home > ul > li > a:hover {
     color: white;
   }
   .body3 > article > p:nth-child(2) {
-    font-size: 1.2rem;
+    font-size: 2rem;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
-    line-height: 2rem;
+    line-height: 3rem;
     text-align: center;
-    width: 80%;
+    width: 90%;
     margin: auto;
   }
   .body3 > .formCont {
@@ -1034,7 +1034,7 @@ footer > .back_to_home > ul > li > a:hover {
     display: flex;
     gap: 0.5rem;
     flex-direction: column;
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
   }
@@ -1045,7 +1045,7 @@ footer > .back_to_home > ul > li > a:hover {
     align-items: center;
     justify-content: center;
     align-items: center;
-    font-size: 1.4rem;
+    font-size: 2rem;
     gap: 1rem;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
@@ -1080,9 +1080,9 @@ footer > .back_to_home > ul > li > a:hover {
   }
 
   .body3 > .formCont > form input {
-    padding: 1rem;
+    padding: 2rem;
     border: 1px solid #47b4dd;
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
     color: black;
@@ -1091,9 +1091,9 @@ footer > .back_to_home > ul > li > a:hover {
 
   .body3 > .formCont > form textarea {
     resize: none;
-    padding: 1rem;
+    padding: 2rem;
     border: 1px solid #47b4dd;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
     color: black;
