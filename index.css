@@ -75,10 +75,10 @@ html {
   color: #47b4dd;
   padding: 1rem;
 }
-.nav_line{
-    border: 1px solid #2b6c85;
-    width: 100%;
-    margin-block: 2rem;
+.nav_line {
+  border: 1px solid #2b6c85;
+  width: 100%;
+  margin-block: 2rem;
 }
 /* cool transform scale option for your anchor nav link */
 .all > header > nav > .body1 > ul > li > a:link,
@@ -99,7 +99,7 @@ html {
   background-image: url(/images/debbie-01.png);
   background-position: right;
   background-repeat: no-repeat;
-  background-size: contain ;
+  background-size: contain;
 }
 .body > section > article > p:nth-child(1) {
   font-size: 8rem;
@@ -558,15 +558,155 @@ footer > .back_to_home > ul > li > a:hover {
   transition: all 0.3s;
 }
 
+@media (max-width: 68.75rem) {
+  /*  */
+  html {
+    font-size: 50%;
+  }
+  .all > header > nav > .body1 > ul > li > a {
+  font-size: 2rem;
+}
+  footer {
+    height: 30vh;
+  }
 
-@media (max-width:68.75rem) {
-    html{
-        font-size: 50%;
-    }
+  .body > section {
+    height: 40vh;
+    background-image: url(/images/debbie-01.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  footer p {
+    font-size: 1.5rem;
+    width: 60%;
+  }
+  footer > .back_to_home > ul {
+    font-size: 2rem;
+  }
+.missionwords > ul > li {
+  width: 15%;
+  p {
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+  }
+}
+/* body 2 */
+.body2 {
+  padding-block: 2rem;
+  margin-bottom: 2rem;
+}
+.body2 > .sec1 > article {
+  width: 55%;
+}
+.body2 > .sec1 > article > p:nth-child(1) {
+  font-size: 3rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 800;
+  letter-spacing: -2px;
+}
+.body2 > .sec1 > article > p:nth-child(2) {
+  font-size: 1.7rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+.body2 > .sec1 > aside {
+  border: 2px solid #2b6c85;
+  padding: 1rem;
+  width: 20%;
+  img {
+    width: 100%;
+  }
+}
+/* sec2 */
+.body2 > .sec2 > article {
+  width: 55%;
+}
+.body2 > .sec2 > article > p:nth-child(1) {
+  font-size: 3rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 800;
+  letter-spacing: -2px;
+}
+.body2 > .sec2 > article > p:nth-child(2) {
+  font-size: 1.7rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+.body2 > .sec2 > aside {
+  border: 2px solid #2b6c85;
+  padding: 1rem;
+  width: 25%;
+  order: -1;
+  img {
+    width: 100%;
+  }
 }
 
-@media (max-width:55.5rem) {
-    html{
-        font-size: 37,5%;
-    }
+/* sec3 */
+.body2 > .sec3 > article {
+  width: 55%;
+}
+.body2 > .sec3 > article > p:nth-child(1) {
+  font-size: 3rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 800;
+  letter-spacing: -2px;
+}
+.body2 > .sec3 > article > p:nth-child(2) {
+  font-size: 1.7rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+.body2 > .sec3 > aside {
+  width: 20%;
+}
+
+/* sec4 */
+.body2 > .sec4 > article {
+  width: 55%;
+}
+.body2 > .sec4 > article > p:nth-child(1) {
+  font-size: 3rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 800;
+  letter-spacing: -2px;
+}
+.body2 > .sec4 > article > p:nth-child(2) {
+  font-size: 1.7rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+.body2 > .sec4 > aside {
+  border: 2px solid #2b6c85;
+  padding: 1rem;
+  width: 20%;
+  order: -1;
+  img {
+    width: 100%;
+  }
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 55.5rem) {
+  html {
+    font-size: 37, 5%;
+  }
 }
