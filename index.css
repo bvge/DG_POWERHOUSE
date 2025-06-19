@@ -691,8 +691,16 @@ footer > .back_to_home > ul > li > a:hover {
     width: 100%;
   }
 }
-
-
+.body3 > article > p:nth-child(1) {
+  font-size: 5rem;
+}
+.body3 > article > p:nth-child(2) {
+  font-size: 1.4rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  line-height: 2rem;
+  text-align: center;
+}
 
 
 }
